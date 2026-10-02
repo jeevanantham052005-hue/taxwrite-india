@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Primary: Homepage -->
+  <url><loc>https://www.taxwriteindia.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <!-- Core pages -->
+  <url><loc>https://www.taxwriteindia.com/about.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/services.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/faq.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/contact.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <!-- PRIORITY 1: Tamil Nadu - primary market -->
+  <url><loc>https://www.taxwriteindia.com/company-registration-tamil-nadu.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/private-limited-company-registration-tamil-nadu.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/llp-registration-tamil-nadu.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/gst-registration-tamil-nadu.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/gst-filing-tamil-nadu.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/accounting-services-tamil-nadu.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/msme-registration-tamil-nadu.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/fssai-registration-tamil-nadu.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/tax-consultant-tamil-nadu.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <!-- PRIORITY 2: Bengaluru / Bangalore - secondary market -->
+  <url><loc>https://www.taxwriteindia.com/company-registration-bangalore.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/private-limited-company-registration-bangalore.html</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/gst-registration-bangalore.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <!-- Legal -->
+  <url><loc>https://www.taxwriteindia.com/privacy-policy.html</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/terms.html</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://www.taxwriteindia.com/disclaimer.html</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+</urlset>

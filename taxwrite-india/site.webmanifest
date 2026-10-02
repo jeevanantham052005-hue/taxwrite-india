@@ -1,0 +1,31 @@
+{
+  "name": "TaxWrite India",
+  "short_name": "TaxWrite India",
+  "description": "TaxWrite India is based in Coimbatore and primarily supports entrepreneurs, startups and businesses across Tamil Nadu, with additional support in Bengaluru and across India. Company registration, GST, accounting and compliance.",
+  "icons": [
+    {
+      "src": "images/brand/taxwrite-india-favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "images/brand/taxwrite-india-favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "images/brand/taxwrite-india-apple-touch.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "images/brand/taxwrite-india-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0D2740",
+  "background_color": "#F7F2E8",
+  "display": "standalone",
+  "start_url": "/"
+}

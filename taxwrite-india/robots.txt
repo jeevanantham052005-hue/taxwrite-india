@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /images/brand/
+Allow: /images/services/
+Allow: /images/about/
+
+# Disallow non-canonical and private
+Disallow: /404.html
+
+Sitemap: https://www.taxwriteindia.com/sitemap.xml

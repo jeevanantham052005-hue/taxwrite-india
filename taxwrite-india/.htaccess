@@ -1,0 +1,45 @@
+# TaxWrite India - SEO Hierarchy: Tamil Nadu (Primary) → Bengaluru (Secondary) → India (Tertiary)
+# Base: Coimbatore, Tamil Nadu, India
+# Physical location: Coimbatore only, no fake offices
+# Tamil Nadu primary, Bengaluru secondary, India tertiary
+
+# 301 Redirects: Remove duplicate India pages that cannibalize Tamil Nadu SEO
+# India pages consolidated to Tamil Nadu primary pages (genuinely relevant)
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  # India → Tamil Nadu redirects (preserve SEO equity, avoid duplicate intent)
+  RewriteRule ^company-registration-india\.html$ /company-registration-tamil-nadu.html [R=301,L]
+  RewriteRule ^private-limited-company-registration-india\.html$ /private-limited-company-registration-tamil-nadu.html [R=301,L]
+  RewriteRule ^llp-registration-india\.html$ /llp-registration-tamil-nadu.html [R=301,L]
+  RewriteRule ^gst-registration-india\.html$ /gst-registration-tamil-nadu.html [R=301,L]
+  RewriteRule ^gst-filing-india\.html$ /gst-filing-tamil-nadu.html [R=301,L]
+  RewriteRule ^accounting-services-india\.html$ /accounting-services-tamil-nadu.html [R=301,L]
+  RewriteRule ^msme-registration-india\.html$ /msme-registration-tamil-nadu.html [R=301,L]
+  RewriteRule ^fssai-registration-india\.html$ /fssai-registration-tamil-nadu.html [R=301,L]
+  RewriteRule ^tax-consultant-india\.html$ /tax-consultant-tamil-nadu.html [R=301,L]
+</IfModule>
+
+# Security and performance headers
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  Header set Strict-Transport-Security "max-age=31536000; includeSubDomains" env=HTTPS
+</IfModule>
+
+# Compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml text/plain
+</IfModule>
+
+# Caching
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/avif "access plus 1 year"
+</IfModule>

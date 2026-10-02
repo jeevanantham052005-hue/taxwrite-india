@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40" role="img" aria-label="TaxWrite India">
+  <rect width="36" height="36" rx="9" fill="#0D2740"/>
+  <path d="M10 12h16M18 12v12M12 18h12" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="48" y="18" font-family="Plus Jakarta Sans, sans-serif" font-weight="700" font-size="15" fill="#0D2740">TaxWrite India</text>
+  <text x="48" y="30" font-family="Plus Jakarta Sans, sans-serif" font-weight="600" font-size="9" letter-spacing="0.08em" fill="#5D6874">BUSINESS • TAX • COMPLIANCE</text>
+</svg>
